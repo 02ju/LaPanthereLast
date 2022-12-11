@@ -133,7 +133,8 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: white;
+    /*color: rgba(255, 255, 255, .6);*/
 }
 
 .d-bloc .a-btn:hover,
@@ -150,7 +151,8 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #000000;
+    /*color: rgba(255, 255, 255, 1);*/
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -748,6 +750,12 @@ h4 {
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
+}
+
+.photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .avatar {
