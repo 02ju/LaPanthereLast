@@ -508,8 +508,14 @@ button {
 }
 
 .form-control {
-    border-color: rgba(0, 0, 0, .1);
+    border: 2px solid #ccc;
+    border-radius: 7px;
+    font-size: 14px;
     box-shadow: none;
+    padding: 5px 10px;
+    height: 30px;
+    width: 100%;
+
 }
 
 .scrollToTop {
