@@ -513,7 +513,8 @@ button {
     font-size: 14px;
     box-shadow: none;
     padding: 5px 10px;
-    height: 30px;
+    margin: 10px 0;
+    height: 26px;
     width: 100%;
 
 }
