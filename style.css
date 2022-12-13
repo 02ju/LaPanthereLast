@@ -802,10 +802,10 @@ h4 {
     background-color: #EE7D49;
 }
 
-/*.tc-white {
+.tc-white {
     color: #FFFFFF!important;
 }
-*/
+
 
 h1 .tc-white {
     color: #333333;
@@ -842,9 +842,9 @@ h1 .tc-white {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
+/* .bg-dots-bg {
     background-image: url("img/dots-bg.png");
-}
+} */
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
