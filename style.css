@@ -584,7 +584,6 @@ a[data-lightbox]:hover img {
     /*max-height: 90vh;*/
     margin: 0 auto;
     width: 400px;
-    height: 400px;
 }
 
 .lightbox-caption {
