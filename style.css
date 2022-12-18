@@ -873,6 +873,18 @@ h1 .tc-white {
         padding-right: 0;
     }
 }
+/*
+@media screen and (max-width: 1024px) {
+    .navbar .nav {
+        padding-bottom: 40px;
+    }
+
+    li {
+        padding: 10px;
+    }
+
+} */
+
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
@@ -897,23 +909,6 @@ h1 .tc-white {
 }
 
 
-
-@media screen and (max-width: 1024px) {
-    .bloc {
-        padding-left: 20px;
-        padding-right: 20px;
-    }
-
-    .navbar .nav {
-        padding-bottom: 40px;
-    }
-
-    li {
-        padding: 10px;
-    }
-
-}
-
 @media (max-width: 991px) {
     .container {
         width: 100%;
@@ -927,9 +922,11 @@ h1 .tc-white {
         position: relative;
     }
     .bloc {
-        padding-left: 10px;
-        padding-right: 10px;
+       /* padding-left: constant(safe-area-inset-left);
+        padding-right: constant(safe-area-inset-right);
         
+        padding-left: 10px;
+        padding-right: 10px; */
     }
     .bloc-group,
     .bloc-group .bloc {
