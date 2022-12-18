@@ -923,10 +923,10 @@ h1 .tc-white {
     }
     .bloc {
        /* padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+        padding-right: constant(safe-area-inset-right);*/
         
         padding-left: 10px;
-        padding-right: 10px; */
+        padding-right: 10px; 
     }
     .bloc-group,
     .bloc-group .bloc {
