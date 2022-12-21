@@ -852,11 +852,11 @@ h1 .tc-white {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.webp");
+    background-image: url("img/agence-la-panthere\ \(3\).webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.webp");
+    background-image: url("img/image-de-presentation\ \(1\).webp");
 }
 
 @media (max-width: 1024px) {
