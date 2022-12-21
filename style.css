@@ -1015,7 +1015,6 @@ h1 .tc-white {
         box-shadow: none;
     }
     .navbar-brand img {
-        max-height: 40px;
         width: 100%;
     }
     .nav-invert .navbar-header {
